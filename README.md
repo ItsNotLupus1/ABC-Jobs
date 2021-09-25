@@ -13,7 +13,9 @@ Last Name, Company Name, City & Country. Users will be able to view the Public P
 * The users will be able to view their own profile using the View Profile button, where they can update their profile and fill in the rest of the details such as Job Title, Education, Company, Experience etc
 * Users can even search for other users on the basis of First Name, Last Name, country, City or Company and view their profile
 * Admin can do all the things that a normal users do but admins can view all the users and also delete their records if needed.
-* If a user forgets his password, he can s
+* If a user forgets his password, he can click on the 'Forgot Password' link below the login form where the user will be redirected to Forgot Password page where he will have to enter the email address which is registered with ABC Jobs web application.
+* An email containing the OTP will be sent to that email address and user will then be redirected to an OTP page where he will have to enter the otp which will verified.
+* After the verification is successful then the user will be redirected to reset password page where he can reset the password by submiting new password. 
 
 ## Project Development Background
 * This web application was developed using Struts 2 framework and the languages used were HTML, CSS, Java, and SQL.
